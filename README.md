@@ -13,9 +13,6 @@ This project is a Qt-based C++ desktop application designed for reading and visu
 - 🖨 Print and export functionality
 - 🎛 User-friendly menu bar and toolbar with icons
 
-## Screenshots
-
-*(Add screenshots here if available)*
 
 ## How It Works
 
