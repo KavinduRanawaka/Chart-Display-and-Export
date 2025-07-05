@@ -13,7 +13,6 @@ This project is a Qt-based C++ desktop application designed for reading and visu
 - 🖨 Print and export functionality
 - 🎛 User-friendly menu bar and toolbar with icons
 
-
 ## How It Works
 
 - The application uses a `QMdiArea` to manage sub-windows such as data graphs and status views.
