@@ -38,7 +38,6 @@ This project is a Qt-based C++ desktop application designed for reading and visu
 3. Run the executable.
 
 #### Using Terminal
-
 ```bash
 mkdir build && cd build
 cmake ..
